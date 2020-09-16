@@ -1,11 +1,11 @@
-### Hi there 👋 I'm Rushabh Vasani!
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rushabh-v.count_visitors)
+### Hi there 👋
+<!--
+**rushabh-v/rushabh-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rushabh-v.count_visitors)
 
 ![Rushabh's github stats](https://github-readme-stats.vercel.app/api?username=rushabh-v&show_icons=true&theme=vue-dark)
 
-<!--
-**rushabh-v/rushabh-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
