@@ -8,7 +8,7 @@
 :man_technologist: I am passionate about Software Engineering, Open-Source and applied ML & I love interacting with other developers! :wink:
 
 
-- I'm currently mentoring a project at [SLoP '20](https://slop.dscdaiict.in/)
+- Mentoring an Open Source project at [SLoP '20](https://slop.dscdaiict.in/).
 - Install my Face-unlock on your Ubuntu: [Guide](https://github.com/rushabh-v/linux_face_unlock#installation)
 - Check out my blog:
 [Make your Python Functions 10x faster](https://towardsdatascience.com/make-your-python-functions-10x-faster-142ab40b31a7?source=friends_link&sk=6f3c0043f78c301ab89b563f5eda503b)
