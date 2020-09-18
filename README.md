@@ -3,7 +3,7 @@
 <p> <a href="https://www.linkedin.com/in/rushabh-v" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://medium.com/@vasanirushabh24" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://twitter.com/rushabh_24" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-### About me
+### About me :rocket:
 :mortar_board:  I am a junior pursuing my bachelor's in Information Technology.
 :man_technologist: I am passionate about Software Engineering, Open-Source and applied ML & I love interacting with other developers! :wink:
 
