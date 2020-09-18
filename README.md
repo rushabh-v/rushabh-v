@@ -4,7 +4,7 @@
 </p>
 
 ### About me
-:mortar_board: I'm a junior pursuing my bachelor's in Information Technology.
+:mortar_board:  I am a junior pursuing my bachelor's in Information Technology.
 :man_technologist: I am passionate about Software Engineering, Open-Source and applied ML & I love interacting with other developers! :wink:
 
 
