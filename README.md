@@ -12,7 +12,7 @@
 - Install my Face-unlock on your Ubuntu: [Guide](https://github.com/rushabh-v/linux_face_unlock#installation)
 - Use my [Show-Your-Contributions](https://github.com/rushabh-v/Show-Your-Contributions) workflow in your GitHub pages repo. :nerd_face:
 - Check out that workflow working for me at: [My-Contributions](https://rushabh-v.github.io/contributions.html) :eyes:
-- Competing in [Google Research Football with Manchester City](https://www.kaggle.com/c/google-football/) competition on Kaggle. **See my bots playing** [here](https://www.kaggle.com/c/google-football/leaderboard?dialog=episodes-submission-17476222) :soccer: :popcorn:
+- Competing in [Google Research Football with Manchester City](https://www.kaggle.com/c/google-football/) competition on Kaggle. **See my bots playing** [here](https://www.kaggle.com/c/google-football/leaderboard?dialog=episodes-submission-18335166) :soccer: :popcorn:
 - Check out my blog:
 [Make your Python Functions 10x faster](https://towardsdatascience.com/make-your-python-functions-10x-faster-142ab40b31a7?source=friends_link&sk=6f3c0043f78c301ab89b563f5eda503b)
 
