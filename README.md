@@ -5,7 +5,7 @@
 
 ### About me :rocket:
 :mortar_board:  I am a junior pursuing my bachelor's in Information Technology.
-:man_technologist: I am passionate about **Software Engineering, Open-Source and applied ML** & I love interacting with other developers! :wink:
+:man_technologist: I am passionate about **Software Engineering, Open-Source and applied ML**.
 
 
 - Mentoring an Open Source project at [SLoP '20](https://slop.dscdaiict.in/).
