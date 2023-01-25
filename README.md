@@ -4,9 +4,7 @@
 </p>
 
 ### About me :rocket:
-:mortar_board:  I am a junior pursuing my bachelor's in Information Technology.
-:man_technologist: I am passionate about **Software Engineering, Open-Source and applied ML**.
-
+A Data scientist with a passion for **Open-Source**, **applied ML**, and **Software Development** in general. Up for open-source collaborations. Feel free to reach out if you are working on something interesting.
 
 - Mentor [@SLoP '20](https://slop.dscdaiict.in/).
 - Install my Face-unlock on your Ubuntu: [Guide](https://github.com/rushabh-v/linux_face_unlock#installation)
@@ -17,7 +15,8 @@
 [Make your Python Functions 10x faster](https://towardsdatascience.com/make-your-python-functions-10x-faster-142ab40b31a7?source=friends_link&sk=6f3c0043f78c301ab89b563f5eda503b)
 
 [![My contributions](https://rushabh-v.github.io/contributions.png)](https://rushabh-v.github.io/contributions)
-![Rushabh's github stats](https://github-readme-stats.vercel.app/api?username=rushabh-v&show_icons=true&theme=vue-dark)
+![Rushabh's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rushabh-v&show_icons=true&theme=vue-dark)
+
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=rushabh-v.count_visitors)
 
