@@ -16,7 +16,3 @@ A Data scientist with a passion for **Open-Source**, **applied ML**, and **Softw
 
 [![My contributions](https://rushabh-v.github.io/contributions.png)](https://rushabh-v.github.io/contributions)
 ![Rushabh's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rushabh-v&show_icons=true&theme=vue-dark)
-
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=rushabh-v.count_visitors)
-
