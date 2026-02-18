@@ -15,4 +15,3 @@ A Data scientist with a passion for **Open-Source**, **applied ML**, and **Softw
 [Make your Python Functions 10x faster](https://towardsdatascience.com/make-your-python-functions-10x-faster-142ab40b31a7?source=friends_link&sk=6f3c0043f78c301ab89b563f5eda503b)
 
 [![My contributions](https://rushabh-v.github.io/contributions.png)](https://rushabh-v.github.io/contributions)
-![Rushabh's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rushabh-v&show_icons=true&theme=vue-dark)
